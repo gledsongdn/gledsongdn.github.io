@@ -11,7 +11,7 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/gledsongdn/gledsongdn.github.io.svg">
   
-  <a href="https://github.com/gledsongdn/gledsongdn.github.io/commits/master">
+  <a href="https://github.com/gledsongdn/gledsongdn.github.io/commits/develop">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gledsongdn/cli.svg">
   </a>
 
