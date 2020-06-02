@@ -34,7 +34,7 @@ O site contém:
 
 ## 🚀 Tecnologias
 
-* Angular 8
+* Angular 9
 
 ## 🔗 Links
 
