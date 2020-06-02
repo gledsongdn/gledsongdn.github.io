@@ -22,7 +22,7 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 
-## 💻💻💻💻 💻Aplicação
+## 💻 Aplicação
 
 Foi desenvolvida como site e portfolio pessoal utilizando as tecnologias listadas abaixo. O layout foi baseado em um modelo gratuito do _Creative-Tim_.
 
